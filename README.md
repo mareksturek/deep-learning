@@ -2,6 +2,4 @@
 
 # Table of Content
 
-- Deep Learning
-
-  - A
+- A
