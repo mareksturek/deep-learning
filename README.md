@@ -2,4 +2,14 @@
 
 # Table of Content
 
-- A
+- Artificial Neural Networks (ANN)
+
+- Convolutional Neural Networks (CNN)
+
+- Recurrent Neural Networks (RNN)
+
+- Self Organizing Maps (SOM)
+
+- Boltzmann Machines (BM)
+
+
