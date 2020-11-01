@@ -2,14 +2,18 @@
 
 # Table of Content
 
-- Artificial Neural Networks (ANN)
+- **Deep Learning**
 
-- Convolutional Neural Networks (CNN)
+    - [Artificial Neural Networks (ANN)](https://github.com/mareksturek/deep-learning/blob/main/01_artificial_neural_network.ipynb)
 
-- Recurrent Neural Networks (RNN)
+    - [Convolutional Neural Networks (CNN)](https://github.com/mareksturek/deep-learning/blob/main/02_convolutional_neural_network.ipynb)
 
-- Self Organizing Maps (SOM)
+    - [Recurrent Neural Networks (RNN)](https://github.com/mareksturek/deep-learning/blob/main/03_recurrent_neural_network.ipynb)
 
-- Boltzmann Machines (BM)
+    - [Self Organizing Maps (SOM)](https://github.com/mareksturek/deep-learning/blob/main/04_self_organizing_maps.ipynb)
+
+    - [Boltzmann Machines (BM)](https://github.com/mareksturek/deep-learning/blob/main/05_boltzmann_machine.ipynb)
+    
+    - [Auto Encoders (AE)](https://github.com/mareksturek/deep-learning/blob/main/06_auto_encoders.ipynb)
 
 
