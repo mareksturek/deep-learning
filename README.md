@@ -4,16 +4,16 @@
 
 - **Deep Learning**
 
-    - [Artificial Neural Networks (ANN)](https://github.com/mareksturek/deep-learning/blob/main/01_artificial_neural_network.ipynb)
+    - [Artificial Neural Networks (ANN)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/01_artificial_neural_network.ipynb)
 
-    - [Convolutional Neural Networks (CNN)](https://github.com/mareksturek/deep-learning/blob/main/02_convolutional_neural_network.ipynb)
+    - [Convolutional Neural Networks (CNN)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/02_convolutional_neural_network.ipynb)
 
-    - [Recurrent Neural Networks (RNN)](https://github.com/mareksturek/deep-learning/blob/main/03_recurrent_neural_network.ipynb)
+    - [Recurrent Neural Networks (RNN)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/03_recurrent_neural_network.ipynb)
 
-    - [Self Organizing Maps (SOM)](https://github.com/mareksturek/deep-learning/blob/main/04_self_organizing_maps.ipynb)
+    - [Self Organizing Maps (SOM)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/04_self_organizing_maps.ipynb)
 
-    - [Boltzmann Machines (BM)](https://github.com/mareksturek/deep-learning/blob/main/05_boltzmann_machine.ipynb)
+    - [Boltzmann Machines (BM)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/05_boltzmann_machine.ipynb)
     
-    - [Auto Encoders (AE)](https://github.com/mareksturek/deep-learning/blob/main/06_auto_encoders.ipynb)
+    - [Auto Encoders (AE)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/06_auto_encoders.ipynb)
 
 
