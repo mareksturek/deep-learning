@@ -12,12 +12,12 @@
     - [Auto Encoders (AE)](https://github.com/mareksturek/deep-learning/blob/main/notebooks/06_auto_encoders.ipynb)
 
 
-- **TensorFlow (TF)**
+- **TensorFlow**
 
-    - [Introduction to TF](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/01_tf_introduction.ipynb)
-    - [ANN with TF](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/02_tf_ann_fashion_mnist.ipynb)
-    - [CNN with TF](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/03_tf_cnn_ciraf.ipynb)
-    - [RNN with TensorFlow](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/04_tf_rnn_imdb.ipynb)
+    - [Introduction](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/01_tf_introduction.ipynb)
+    - [Artificial Neural Networks](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/02_tf_ann_fashion_mnist.ipynb)
+    - [Convolutional Neural Networks](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/03_tf_cnn_ciraf.ipynb)
+    - [Recurrent Neural Networks](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/04_tf_rnn_imdb.ipynb)
     - [Transfer learning with TensorFlow](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/05_tf_transfer_learning_dog_cat.ipynb)
     - [DRL with TensorFlow](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/06_tf_drl_stock_market.ipynb)
     - [Data Validation with TensorFlow](https://github.com/mareksturek/deep-learning/blob/main/tensorflow/07_tf_data_validation.ipynb)
