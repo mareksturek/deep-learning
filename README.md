@@ -28,3 +28,7 @@
 - **Certification**
 
     - [Fundaments](https://github.com/mareksturek/deep-learning/blob/main/certification/00_tensorflow_fundamentals.ipynb)
+    - [Regression](https://github.com/mareksturek/deep-learning/blob/main/certification/01_neural_network_regression_in_tensorflow.ipynb)
+    
+    
+  
