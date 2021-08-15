@@ -32,5 +32,5 @@
     - [Classification](https://github.com/mareksturek/deep-learning/blob/main/certification/02_neural_network_classification_in_tensorflow.ipynb)
     - [Convolutional](https://github.com/mareksturek/deep-learning/blob/main/certification/03_convolutional_neural_networks_in_tensorflow.ipynb)
     - [Transfer Learning # 1](https://github.com/mareksturek/deep-learning/blob/main/certification/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb)
-  
+    - [Transfer Learning # 2](https://github.com/mareksturek/deep-learning/blob/main/certification/05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb) 
   
