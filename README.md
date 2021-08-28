@@ -37,4 +37,4 @@
     - [Vision Project](https://github.com/mareksturek/deep-learning/blob/main/certification/07_food_vision_milestone_project_1.ipynb) 
     - [Natural Language Processing](https://github.com/mareksturek/deep-learning/blob/main/certification/08_introduction_to_nlp_in_tensorflow.ipynb)         
     - [NLP Project](https://github.com/mareksturek/deep-learning/blob/main/certification/09_SkimLit_nlp_milestone_project_2.ipynb)
-    
+    - [Time_Series_Forecasting](https://github.com/mareksturek/deep-learning/blob/main/certification/10_time_series_forecasting_in_tensorflow.ipynb)
