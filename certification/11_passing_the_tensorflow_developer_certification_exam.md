@@ -1,4 +1,4 @@
-# Preparing for the TensorFlow Developer Certification
+# Passing the TensorFlow Developer Certification
 
 After going through the Zero to Mastery TensorFlow for Deep Learning course, you might be interested in taking the TensorFlow Developer Certification exam.
 
