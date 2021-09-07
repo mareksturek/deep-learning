@@ -36,6 +36,6 @@
     - [Transfer Learning # 3](https://github.com/mareksturek/deep-learning/blob/main/certification/06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb)   
     - [Vision Project](https://github.com/mareksturek/deep-learning/blob/main/certification/07_food_vision_milestone_project_1.ipynb) 
     - [Natural Language Processing](https://github.com/mareksturek/deep-learning/blob/main/certification/08_introduction_to_nlp_in_tensorflow.ipynb)         
-    - [NLP Project](https://github.com/mareksturek/deep-learning/blob/main/certification/09_SkimLit_nlp_milestone_project_2.ipynb)
+    - [Natural Language Processing Project](https://github.com/mareksturek/deep-learning/blob/main/certification/09_SkimLit_nlp_milestone_project_2.ipynb)
     - [Time Series Forecasting](https://github.com/mareksturek/deep-learning/blob/main/certification/10_time_series_forecasting_in_tensorflow.ipynb)
     - [Passing the TensorFlow Developer Certification](https://github.com/mareksturek/deep-learning/blob/main/certification/11_passing_the_tensorflow_developer_certification_exam.md)
